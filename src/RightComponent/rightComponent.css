@@ -1,0 +1,11 @@
+.right-top {
+  height: 60vh;
+  border: 2px solid pink;
+}
+.right-bottom {
+  height: 40vh;
+  border: 2px solid yellow;
+}
+.right {
+  height: 100vh;
+}

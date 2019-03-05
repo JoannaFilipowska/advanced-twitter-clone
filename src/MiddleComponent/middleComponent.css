@@ -1,0 +1,21 @@
+.middle-top {
+  height: 10vh;
+  border: 2px solid purple;
+}
+.middle-bottom {
+  height: 90vh;
+  border: 2px solid blue;
+}
+.middle {
+  height: 100vh;
+}
+.image-middle {
+  width: 100vh;
+  height: 500px;
+  background-image: url("https://piximus.net/media/21567/awesome-nature-10.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.text-middle {
+  font: italic small-caps 44px/50px Georgia, sans-serif;
+}

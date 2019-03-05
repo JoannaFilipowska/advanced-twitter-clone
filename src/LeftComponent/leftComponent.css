@@ -1,0 +1,18 @@
+.left-top {
+  height: 50vh;
+  border: 2px solid orange;
+}
+.left-bottom {
+  height: 50vh;
+  border: 2px solid red;
+}
+.left {
+  height: 100vh;
+}
+.image-left {
+  width: 420px;
+  height: 180px;
+  background-image: url("https://cms.qz.com/wp-content/uploads/2017/03/twitter_egg_blue.png?w=2200&h=1238&strip=all&quality=75");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
